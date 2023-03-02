@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Naing Min Ko</h1>
 - 🔭 I’m currently working in **Japan**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilaryKo&show_icons=true&theme=tokyonight)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/naingmin.ko.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/naingmin.ko.39" height="30" width="40" /></a>
