@@ -1,4 +1,4 @@
-![alt text](http://url/to/https://github.com/HilaryKo/HilaryKo/blob/main/IMG_7341.JPG)
+![Naing Min Ko](https://github.com/HilaryKo/HilaryKo/blob/main/IMG_7341.JPG)
 
 <h1 align="center">Hi 👋, I'm Naing Min Ko</h1>
 - 🔭 I’m currently working in **Japan**
